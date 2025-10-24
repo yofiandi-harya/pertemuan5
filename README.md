@@ -54,6 +54,3 @@ Kirim data JSON via Postman:
 ✅ Model Machine Learning Logistic Regression (model.pkl)
 ✅ Grafik ROC-AUC (roc_test.png)
 ✅ API Prediksi Sederhana (app.py)
-
-🧾 Penulis
-Nama: Muhamad Ropik
